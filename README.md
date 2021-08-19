@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alekstore
-- 👀 I’m interested in WordPress,PHP
+- 👀 I’m interested in WordPress, PHP
 - 🌱 I’m currently learning OOP in PHP
 - 💞️ I’m not looking to collaborate yet
 
